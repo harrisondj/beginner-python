@@ -4,3 +4,13 @@
 * Used to easily recall a value
 * Types of Variables are `Boolian, Int, Array`
 
+# Conditionals
+
+* Used with `if` and `else`
+	* if (Variable Name) (Type):
+* Expressions
+* Branching 
+
+# Functions
+
+* ? 
