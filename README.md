@@ -1,20 +1,6 @@
-# beginner-python
+# Variables
 
-## Grocery List 
+* Assign by saying `Variable Name`, and then the `Variable type`
+* Used to easily recall a value
+* Types of Variables are `Boolian, Int, Array`
 
-* Milk
-* Bread
-* Pizza
-* Chips
-* Apples
-
-This is `a variable name`.
-
-```
-$ python run.py
-```
-```
-def my_function(a):
-	return a + 10
-
-```
