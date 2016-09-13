@@ -8,8 +8,8 @@
 
 * Used with `if` and `else`
 	* if (Variable Name) (Type):
-* Expressions
 * Branching 
+	* `else:`
 
 # Functions
 
